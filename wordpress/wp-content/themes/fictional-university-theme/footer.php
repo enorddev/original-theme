@@ -21,6 +21,10 @@
                 </ul>
               </nav>
             </div>
+                
+               
+                
+              
 
             <div class="site-footer__col-three">
               <h3 class="headline headline--small">Learn</h3>
@@ -31,6 +35,7 @@
                   <li><a href="#">Careers</a></li>
                 </ul>
               </nav>
+               
             </div>
           </div>
 
@@ -59,7 +64,7 @@
         </div>
       </div>
     </footer>
-<?php wp_footer();?>
+    <?php wp_footer(); ?>
 </body>
 </html>
 
